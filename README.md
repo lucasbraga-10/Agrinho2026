@@ -9,3 +9,4 @@ Sob a perspectiva socioeconômica, a alta mecanização ocasiona o êxodo rural 
 A análise dessas variáveis tem o objetivo de identificar e reduzir esses impactos, incentivando a adoção de modelos sustentáveis como a agricultura regenerativa e a agroecologia, usando dados legitimados por instituições reconhecidas, como a FAO, o INPE e a Embrapa.
 
 Os textos foram pesquisados e feitos por mim
+#agrinho
